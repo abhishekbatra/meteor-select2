@@ -1,2 +1,2 @@
-_site
-dist
+node_modules
+dist/js/i18n/build.txt
